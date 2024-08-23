@@ -1,0 +1,8 @@
+
+div{
+    width: 480px;
+    height: 800px;
+    border: 1px rgb(55, 55, 238) solid;
+    padding-bottom: 20px;
+    box-shadow: 4px 4px 3px #f3eeee, -4px -4px 3px #f3eeee;
+}

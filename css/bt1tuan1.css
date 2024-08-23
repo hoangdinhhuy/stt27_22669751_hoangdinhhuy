@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+h2{
+    color: rgb(5, 5, 5);
+}
+div{
+    width: 540px;
+    height: 900px;
+    border: 4px rgb(175, 171, 171) solid;
+    padding-bottom: 20px;
+    box-shadow: 4px 4px 3px #f3eeee, -4px -4px 3px #f3eeee;
+}
